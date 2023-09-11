@@ -1,4 +1,4 @@
-# Kulture - Google BGN Hackathon - The social media built on culture
+# Kulture App - Google BGN Hackathon Project - The Social App Built On Culture
 
 ## Overview
 - This project was completed as part of the Google BGN Hackathon at Google's UK headquarters

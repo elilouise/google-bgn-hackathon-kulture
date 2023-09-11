@@ -1,7 +1,6 @@
 # Kulture App - Google BGN Hackathon Project - The Social App Built On Culture
 ---
-
-![google](https://github.com/elilouise/google-bgn-hackathon-kulture/assets/53550369/f6378ab8-74ac-4965-b71f-a2e9509b8186)
+![google](https://github.com/elilouise/google-bgn-hackathon-kulture/assets/53550369/b3799792-1cf9-4ee0-920b-394212104af6)
 
 ## Overview
 - This project was completed as part of the Google BGN Hackathon at Google's UK headquarters

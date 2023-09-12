@@ -20,7 +20,7 @@ This project was completed as part of the 2022 Google BGN Hackathon at Google's 
 
 ## <a href="https://www.canva.com/design/DAFQy3lu8pg/6X_NDruipj8vRdEmwziK6A/view?utm_content=DAFQy3lu8pg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Slideshow</a>
 
-Project presentation we prepared and delivered to a team of Google engineers, managers and directors
+Project presentation we prepared and delivered to hackathon judge panel team compromised of Google engineers, managers and directors
 
 ## Contributers
 - <a href="https://github.com/MarlzRana">Dineth Marlin Ranasinghe</a>

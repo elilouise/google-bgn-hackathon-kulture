@@ -1,6 +1,6 @@
 # Google BGN Hackathon Project - Kulture App - Social App Built On Culture
 
-![google](https://github.com/elilouise/google-bgn-hackathon-kulture/assets/53550369/b3799792-1cf9-4ee0-920b-394212104af6)
+![new-google-logo](https://github.com/elilouise/google-bgn-hackathon-kulture/assets/53550369/81e1b4d1-9263-4b41-934c-cfac9939faf9)
 
 ## Project Overview
 This project was completed as part of the 2022 Google BGN Hackathon at Google's London, UK headquarters

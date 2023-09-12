@@ -10,7 +10,7 @@ This project was completed as part of the 2022 Google BGN Hackathon at Google's 
 - 🥈 Won 2nd Place Overall at Google BGN Hackathon
 
 ## Project's Mission
-- Unifying society by embracing the differences in culture
+- Unifying society by embracing and celebrating the differences in culture
 
 ## Project Preview
 <img src="https://media1.giphy.com/media/HWMAmzYlDrjMlEoLiR/giphy.gif?cid=790b7611ec8e8b8ea87de3f2266a9405b6a78e2af22527b3&rid=giphy.gif&ct=g"></img>
@@ -22,7 +22,7 @@ This project was completed as part of the 2022 Google BGN Hackathon at Google's 
 
 Project presentation we prepared and delivered to hackathon judge panel team compromised of Google engineers, managers and directors
 
-## Contributers
+## Contributors
 - <a href="https://github.com/MarlzRana">Dineth Marlin Ranasinghe</a>
 - <a href="https://github.com/Agape-ctrl">Agape Lutonadio</a>
 - <a href="https://github.com/michaeldesta">Michael Desta</a>

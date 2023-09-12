@@ -5,7 +5,7 @@
 ## Overview
 This project was completed as part of the 2022 Google BGN Hackathon at Google's London, UK headquarters
 
-## Awards Won
+## Achievements
 - 🥇 Won Google's People Choice Award
 - 🥈 Won 2nd Place Overall at Google BGN Hackathon
 

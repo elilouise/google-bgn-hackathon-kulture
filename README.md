@@ -1,4 +1,4 @@
-# Google BGN Hackathon Project - Kulture App - The Social App Built On Culture
+# Google BGN Hackathon Project - Kulture App - Social App Built On Culture
 ---
 ![google](https://github.com/elilouise/google-bgn-hackathon-kulture/assets/53550369/b3799792-1cf9-4ee0-920b-394212104af6)
 

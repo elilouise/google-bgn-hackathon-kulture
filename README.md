@@ -20,7 +20,7 @@ Unifying society by embracing and celebrating the differences in culture
 
 ## <a href="https://www.canva.com/design/DAFQy3lu8pg/6X_NDruipj8vRdEmwziK6A/view?utm_content=DAFQy3lu8pg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Project Presentation</a>
 
-Project presentation we prepared and delivered to the Google hackathon jury team consisting of Google Engineer [Timilehin F.](https://www.linkedin.com/in/timilehin-fasipe-087753162/), Vice President [Cait O.](https://www.linkedin.com/in/caitoriordan/) & Managing Director [Craig F.](https://www.linkedin.com/in/craigfenton/)
+Project presentation we prepared and delivered to the Google hackathon jury consisting of Google Managing Director [Craig F.](https://www.linkedin.com/in/craigfenton/), Vice President [Cait O.](https://www.linkedin.com/in/caitoriordan/) & Software Engineer [Timilehin F.](https://www.linkedin.com/in/timilehin-fasipe-087753162/)
 
 ## Project Contributors
 - <a href="https://github.com/MarlzRana">Dineth Marlin Ranasinghe</a>
